@@ -5,7 +5,7 @@ from sympy import symbols, Eq, solve, diff, integrate
 x, y = symbols('x y')
 
 # --- Streamlit Page Config ---
-st.set_page_config(page_title="AI Math Solver", page_icon="hehe", layout="wide")
+st.set_page_config(page_title="AI Math Solver", page_icon="✨", layout="wide")
 
 # --- Custom Baby Pink Styling ---
 st.markdown("""
