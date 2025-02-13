@@ -37,7 +37,7 @@ st.markdown("""
 
 # --- Sidebar ---
 st.sidebar.image("https://cdn-icons-png.flaticon.com/512/1048/1048952.png", width=100)
-st.sidebar.title("🎀 AI Math Solver")
+st.sidebar.title("💋 AI Math Solver")
 option = st.sidebar.radio("Choose an option:", 
     ["📖 Solve an Equation", "✏️ Find a Derivative", "∫ Find an Integral", "🔗 Solve a System"])
 
