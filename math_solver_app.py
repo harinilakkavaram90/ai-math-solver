@@ -1,4 +1,4 @@
-eimport streamlit as st
+import streamlit as st
 from sympy import symbols, Eq, solve, diff, integrate
 
 # Define symbols
